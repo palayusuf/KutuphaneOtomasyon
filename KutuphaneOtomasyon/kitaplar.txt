@@ -1,0 +1,371 @@
+Beyaz Gemi                   |   Cengiz Aytmatov       |   3            |   31      |   100   | 
+ 
+
+Sefiller                     |   Victor Hugo           |   2            |   45      |   101   | 
+ 
+
+Küçük Prens                  |   Antoine de Saint-Exupéry   |   4   |   28      |   102   | 
+ 
+
+Sherlock Holmes Maceraları   |   Arthur Conan Doyle     |   5            |   50      |   103   | 
+ 
+
+İnce Memed                   |   Yaşar Kemal           |   1            |   39      |   104   | 
+ 
+
+1984                         |   George Orwell         |   3            |   33      |   105   | 
+ 
+
+Kırmızı Pazartesi            |   Gabriel García Márquez   |   2   |   47      |   106   | 
+ 
+
+Sineklerin Tanrısı           |   William Golding       |   5            |   40      |   107   | 
+ 
+
+Anna Karenina                |   Lev Tolstoy           |   4            |   36      |   108   | 
+ 
+
+Don Kişot                    |   Miguel de Cervantes   |   2            |   43      |   109   | 
+ 
+
+Yabancılar                      |   Albert Camus          |   3            |   30      |   110   | 
+ 
+
+Dune                         |   Frank Herbert         |   5            |   48      |   111   | 
+ 
+
+Bülbülü Öldürmek             |   Harper Lee            |   2            |   37      |   112   | 
+ 
+
+Dracula                      |   Bram Stoker           |   3            |   44      |   113   | 
+ 
+
+Bin Muhteşem Güneş           |   Khaled Hosseini       |   4            |   32      |   114   | 
+ 
+
+Çalıkuşu                    |   Reşat Nuri Güntekin   |   1            |   29      |   115   | 
+ 
+
+Yüzüklerin Efendisi          |   J.R.R. Tolkien        |   5            |   50      |   116   | 
+ 
+
+Yüzük Kardeşliği             |   J.R.R. Tolkien        |   3            |   45      |   117   | 
+ 
+
+Savaş ve Barış                |   Lev Tolstoy           |   2            |   38      |   118   | 
+ 
+
+Uğultulu Tepeler              |   Emily Bronte          |   4            |   32      |   119   | 
+ 
+
+Büyülü Fener                  |   Antoine de Saint-Exupéry   |   3   |   47      |   120   | 
+ 
+
+Catch-22                      |   Joseph Heller         |   1            |   41      |   121   | 
+ 
+
+Jane Eyre                     |   Charlotte Bronte      |   5            |   49      |   122   | 
+ 
+
+Olasılıksız                   |   Adam Fawer            |   4            |   29      |   124   | 
+ 
+
+Dorian Gray'in Portresi       |   Oscar Wilde           |   3            |   43      |   125   | 
+ 
+
+Küçük Kadınlar                |   Louisa May Alcott     |   5            |   33      |   126   | 
+ 
+
+Gurur ve Önyargı              |   Jane Austen           |   2            |   39      |   127   | 
+ 
+
+Origin                          |   George Orwell         |   4            |   42      |   128   | 
+ 
+
+Binbir Gece Masalları         |   Anonim                |   3            |   31      |   129   | 
+ 
+
+Serenad                       |   Zülfü Livaneli        |   1            |   40      |   130   | 
+ 
+
+Beyaz Diş                     |   Jack London           |   5            |   37      |   131   | 
+ 
+
+Yıldızların Altında           |   John Green            |   3            |   34      |   132   | 
+ 
+
+Martı                         |   Anton Chekhov         |   2            |   41      |   133   | 
+ 
+
+Usta ile Margarita            |   Mikhail Bulgakov      |   4            |   29      |   134   | 
+ 
+
+Sapiens                       |   Yuval Noah Harari   |   5   |   48      |   135   | 
+ 
+
+Othello                       |   William Shakespeare   |   1            |   35      |   136   | 
+ 
+
+Dokuzuncu Hariciye Koğuşu     |   Peyami Safa           |   3            |   37      |   137   | 
+ 
+
+Deliliğe Övgü                 |   Erasmus               |   2            |   42      |   138   | 
+ 
+
+Bir Ömür Nasıl Yaşanır?       |   İlber Ortaylı         |   4            |   30      |   139   | 
+ 
+
+Hayvan Çiftliği               |   George Orwell         |   5            |   33      |   140   | 
+ 
+
+Bir Dünya Kurmak              |   Stefan Zweig          |   2            |   39      |   141   | 
+ 
+
+Göçebe                        |   Doğu Yücel            |   3            |   44      |   142   | 
+ 
+
+Yeşil Yol                     |   Stephen King          |   4            |   31      |   143   | 
+ 
+
+Şeker Portakalı               |   Jose Mauro de Vasconcelos   |   1   |   47   |   144   | 
+ 
+
+Yaban                         |   Yakup Kadri Karaosmanoğlu   |  4  |   36      |  145  | 
+ 
+
+Dava                          |   Franz Kafka           |   3            |   40      |   146   | 
+ 
+
+Bilinmeyen Bir Kadının Mektubu   |   Stefan Zweig        |   2            |   38      |   147   | 
+ 
+
+Gölgelerin Efendisi           |   Rıfat Ilgaz           |   3            |   39      |   148   | 
+ 
+
+Oğullar ve Rencide Ruhlar    |   Dostoyevski           |   4            |   43      |   149   | 
+ 
+
+Kar                          |   Orhan Pamuk           |   2            |   36      |   150   | 
+ 
+
+Sonsuzluğun Sonu              |   Ken Follett           |   5            |   41      |   151   | 
+ 
+
+Fahrenheit 451                |   Ray Bradbury          |   3            |   37      |   152   | 
+ 
+
+Cesur Yeni Dünya              |   Aldous Huxley         |   4            |   42      |   153   | 
+ 
+
+Büyük Umutlar                 |   Charles Dickens       |   2            |   38      |   154   | 
+ 
+
+Satranç                       |   Stefan Zweig          |   5            |   44      |   155   | 
+ 
+
+Sofie'nin Dünyası             |   Jostein Gaarder       |   3            |   39      |   156   | 
+ 
+
+İstanbul Hatırası             |   Ahmet Ümit            |   4            |   45      |   157   | 
+ 
+
+Beyaz Zambaklar Ülkesinde     |   Grigory Petrov        |   2            |   40      |   158   | 
+ 
+
+Günlük                       |   Anne Frank            |   5            |   46      |   159   | 
+ 
+
+Simyacı                       |   Paulo Coelho          |   4            |   41      |   160   | 
+ 
+
+Kurmaca Sanatı                |   Forster E.M.          |   3            |   47      |   161   | 
+ 
+
+Beyaz Geceler                 |   Fyodor Dostoevsky     |   2            |   42      |   162   | 
+ 
+
+Yeraltından Notlar            |   Fyodor Dostoevsky     |   5            |   48      |   163   | 
+ 
+
+Dedemin Bakkalı               |   Şener Şen             |   3            |   38      |   164   | 
+ 
+
+Karanlıkta Koşanlar           |   Ahmet Ümit            |   4            |   42      |   165   | 
+ 
+
+Büyücüler ve Yıldızlar        |   Terry Pratchett       |   2            |   35      |   166   | 
+ 
+
+Uğursuz Gezegen               |   Ray Bradbury          |   5            |   39      |   167   | 
+ 
+
+Bir İdam Mahkumunun Son Günü   |   Victor Hugo           |   3            |   43      |   168   | 
+ 
+
+Kürk Mantolu Madonna          |   Sabahattin Ali        |   4            |   36      |   169   | 
+ 
+
+Yüzüklerin Efendisi İki           |   J.R.R. Tolkien        |   2            |   41      |   170   | 
+ 
+
+Hayvan Mezarlığı               |   Stephen King          |   5            |   37      |   171   | 
+ 
+
+Dönüşüm                       |   Franz Kafka           |   3            |   42      |   172   | 
+ 
+
+Suç ve Ceza                   |   Fyodor Dostoevsky     |   4            |   38      |   173   | 
+ 
+
+Sherlock Holmes Serüvenleri   |   Arthur Conan Doyle     |   4            |   40      |   177   | 
+ 
+
+İnce Memed İki                  |   Yaşar Kemal           |   5            |   45      |   178   | 
+ 
+
+Yüzyıllık Yalnızlık           |   Gabriel Garcia Marquez   |   3      |   48      |   179   | 
+ 
+
+Kırmızı Salı             |   Gabriel Garcia Marquez   |   4      |   46      |   180   | 
+ 
+
+Beyaz Kale                    |   Orhan Pamuk             |   2      |   44      |   181   | 
+ 
+
+Ölü Canlar                   |   Nikolai Gogol           |   5      |   47      |   182   | 
+ 
+
+Kurtlarla Koşan Kadınlar      |   Jean-Marie Le Clézio    |   3      |   42      |   183   | 
+ 
+
+Veba                          |   Albert Camus            |   4      |   45      |   184   | 
+ 
+
+Bülbül Öldürmek              |   Harper Lee              |   2      |   43      |   185   | 
+ 
+
+Anna Karenina İki                |   Lev Tolstoy             |   5      |   49      |   186   | 
+ 
+
+Bir Kadının Yaşamından Portre   |   James Joyce            |   3      |   41      |   187   | 
+ 
+
+Dönüş                         |   Mehmet Rauf             |   4      |   44      |   188   | 
+ 
+
+Gece Yolculuğu                 |   Cees Nooteboom          |   2      |   42      |   189   | 
+ 
+
+İnsan Ne İle Yaşar?           |   Lev Tolstoy             |   5      |   48      |   190   | 
+ 
+
+Satrancın Ana Hatları         |   Stefan Zweig            |   3      |   43      |   191   | 
+ 
+
+Yabancı                       |   Albert Camus            |   4      |   47      |   192   | 
+ 
+
+Kara Kitap                    |   Orhan Pamuk             |   2      |   44      |   193   | 
+ 
+
+Kırlangıç Çığlığı              |   Ahmet Altan             |   5      |   46      |   194   | 
+ 
+
+Yitik Kıta                    |   Edgar Allan Poe         |   3      |   49      |   195   | 
+ 
+
+Çalı Kuşu                     |   Reşat Nuri Güntekin     |   4      |   45      |   196   | 
+ 
+
+Cesur Yeni           |   Aldous Huxley           |   2      |   47      |   197   | 
+ 
+
+Kumarbaz                      |   Fyodor Dostoevsky       |   5      |   42      |   198   | 
+ 
+
+Sonsuzluğun Sonu              |   Ken Follett             |   3      |   46      |   199   | 
+ 
+
+Aylak Adam                    |   Yusuf Atılgan           |   4      |   43      |   200   | 
+ 
+
+Cinayetler Arasında           |   Agatha Christie         |   2      |   48      |   201   | 
+ 
+
+Aşk ve Gurur                  |   Jane Austen             |   5      |   44      |   202   | 
+ 
+
+Madam Bovary                  |   Gustave Flaubert        |   3      |   49      |   203   | 
+ 
+
+Karamazov Kardeşler           |   Fyodor Dostoevsky       |   2      |   47      |   204   | 
+ 
+
+Yabancıyı Tanımak             |   Albert Camus            |   4      |   44      |   207   | 
+ 
+
+Kendime Ait Bir Oda           |   Virginia Woolf          |   4      |   50      |   208   | 
+ 
+
+Davam                          |   Franz Kafka             |   3      |   46      |   209   | 
+ 
+
+Tutunamayanlar                |   Oğuz Atay               |   5      |   49      |   210   | 
+ 
+
+Küçük Kara Balık              |   Samed Behrengi          |   2      |   43      |   211   | 
+ 
+
+İthaki Modern Serisi          |   İthaki Yayınları        |   1      |   25      |   212   | 
+ 
+
+Kuyucaklı Yusuf               |   Sabahattin Ali          |   4      |   36      |   213   | 
+ 
+
+Don Kisott                     |   Miguel de Cervantes     |   3      |   48      |   214   | 
+ 
+
+Martılar                        |   Anton Çehov             |   2      |   41      |   215   | 
+ 
+
+Uğultulu Tepe               |   Emily Bronte            |   5      |   47      |   216   | 
+ 
+
+Sinekler Tanrısı            |   William Golding         |   4      |   42      |   217   | 
+ 
+
+Beyaz Dişler                    |   Jack London             |   3      |   45      |   218   | 
+ 
+
+Karanlıkta Uyananlar          |   İhsan Oktay Anar        |   2      |   44      |   219   | 
+ 
+
+Uzak                       |   Cevat Şakir Kabaağaçlı    |   5      |   30      |   220   | 
+ 
+
+Dönemeç                    |   Murathan Mungan          |   4      |   32      |   221   | 
+ 
+
+Kurt Seyt & Murka          |   Nermin Bezmen            |   3      |   33      |   222   | 
+ 
+
+İstanbul Hatıraları           |   Ahmet Ümit               |   2      |   31      |   223   | 
+ 
+
+Kan ve Gül                 |   Orhan Pamuk              |   1      |   27      |   224   | 
+ 
+
+Aşkın Gözyaşları            |   Paulo Coelho             |   4      |   35      |   225   | 
+ 
+
+Bozkurtlar                |   Hüseyin Nihal Atsız       |   3      |   34      |   226   | 
+ 
+
+Ortadirek               |   Yaşar Kemal              |   2      |   30      |   227   | 
+ 
+
+Dikenli Yol                |   Halide Edip Adıvar       |   1      |   29      |   228   | 
+ 
+
+Yeni Dünya       |   Sabahattin Ali           |   4      |   32      |   229   | 
+aliya | palasko | 3 | 65 | 1 | 
