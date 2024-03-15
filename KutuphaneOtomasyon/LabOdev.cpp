@@ -18,6 +18,7 @@ void KitapEkle() {
     {
         getline(dosya2, s, '|');
     }
+    //ornek degisiklik
     if (!s.empty()) //burda dosyanın içerisinden gelen veri var mı diye kontrol sağlıyorum. Eğer veri gelmemiş ise barkod numarası default olarak 100'den başlayacak.
     {
         barkod = stoi(s) + 1; //stoi = string to integer, string'ten integer'a dönüşüm sağlıyorum. barkod numarasını dosyanın içerisindeki son barkoddan 1 fazla  olarak ayarlyorum.
